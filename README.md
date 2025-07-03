@@ -38,6 +38,13 @@ In this project, I analyzed a dataset of customers and their likelihood of purch
 
 ## 📁 Dataset:
 Included: `cleaned_bike_sales_data.csv`
+## 📊 Visualizations
 
-![Bike Purchase by Income](bike_purchase_by_income.png)
+### 🚲 Bike Purchase % by Age Group
+![Purchase by Age](bike_by_age.png)
+
+### 💰 Bike Purchase % by Income Group
+![Purchase by Income](bike_purchase_by_income.png)
+
+
 
