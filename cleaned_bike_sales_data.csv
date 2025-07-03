@@ -1,0 +1,301 @@
+customer_id,age,gender,income,education,marital_status,commute_distance,region,purchased_bike,age_group,income_group
+CUST0001,56,female,68304,Bachelors,Single,2-5 Miles,North,Yes,56-65,40k-70k
+CUST0002,46,male,99449,PhD,Married,1-2 Miles,North,Yes,46-55,70k-100k
+CUST0003,32,female,112986,High School,Single,1-2 Miles,East,Yes,26-35,100k+
+CUST0004,60,male,119643,Bachelors,Single,2-5 Miles,South,Yes,56-65,100k+
+CUST0005,25,female,50764,High School,Married,1-2 Miles,East,No,16-25,40k-70k
+CUST0006,38,female,116027,PhD,Married,5-10 Miles,South,Yes,36-45,100k+
+CUST0007,56,female,68494,Masters,Single,0-1 Miles,South,Yes,56-65,40k-70k
+CUST0008,36,female,33373,PhD,Single,5-10 Miles,South,Yes,36-45,<40k
+CUST0009,40,female,42161,Bachelors,Single,1-2 Miles,North,No,36-45,40k-70k
+CUST0010,28,male,57350,Masters,Married,10+ Miles,West,Yes,26-35,40k-70k
+CUST0011,28,male,55351,Bachelors,Married,0-1 Miles,East,Yes,26-35,40k-70k
+CUST0012,41,male,118668,Masters,Married,0-1 Miles,West,No,36-45,100k+
+CUST0013,53,female,45305,High School,Married,2-5 Miles,East,Yes,46-55,40k-70k
+CUST0014,57,male,105353,High School,Married,2-5 Miles,South,No,56-65,100k+
+CUST0015,41,female,106797,High School,Single,10+ Miles,North,No,36-45,100k+
+CUST0016,20,female,95953,PhD,Married,0-1 Miles,West,No,16-25,70k-100k
+CUST0017,39,male,87458,Bachelors,Single,10+ Miles,North,No,36-45,70k-100k
+CUST0018,19,male,50358,PhD,Single,2-5 Miles,East,No,16-25,40k-70k
+CUST0019,41,female,33267,High School,Single,2-5 Miles,North,No,36-45,<40k
+CUST0020,61,male,112745,Bachelors,Married,0-1 Miles,North,No,56-65,100k+
+CUST0021,47,female,119588,High School,Married,5-10 Miles,West,No,46-55,100k+
+CUST0022,55,female,68513,PhD,Married,1-2 Miles,South,Yes,46-55,40k-70k
+CUST0023,19,female,56092,PhD,Single,2-5 Miles,North,Yes,16-25,40k-70k
+CUST0024,38,female,41338,PhD,Single,2-5 Miles,South,Yes,36-45,40k-70k
+CUST0025,50,female,30412,High School,Single,5-10 Miles,East,Yes,46-55,<40k
+CUST0026,29,male,37543,Bachelors,Single,5-10 Miles,North,Yes,26-35,<40k
+CUST0027,39,male,63496,Bachelors,Single,10+ Miles,West,Yes,36-45,40k-70k
+CUST0028,61,female,90692,High School,Single,10+ Miles,East,Yes,56-65,70k-100k
+CUST0029,42,female,119084,Bachelors,Married,1-2 Miles,East,No,36-45,100k+
+CUST0030,44,male,74425,High School,Married,1-2 Miles,West,No,36-45,70k-100k
+CUST0031,59,male,68756,Bachelors,Married,0-1 Miles,North,Yes,56-65,40k-70k
+CUST0032,45,female,48888,Masters,Married,10+ Miles,North,Yes,36-45,40k-70k
+CUST0033,33,male,65735,Masters,Single,2-5 Miles,East,No,26-35,40k-70k
+CUST0034,32,female,77295,PhD,Single,10+ Miles,North,Yes,26-35,70k-100k
+CUST0035,64,male,113042,Masters,Married,2-5 Miles,South,No,56-65,100k+
+CUST0036,61,female,115999,Masters,Single,5-10 Miles,West,Yes,56-65,100k+
+CUST0037,20,male,47955,Masters,Married,10+ Miles,South,Yes,16-25,40k-70k
+CUST0038,54,female,67841,High School,Married,5-10 Miles,North,No,46-55,40k-70k
+CUST0039,24,male,100640,Masters,Married,1-2 Miles,East,Yes,16-25,100k+
+CUST0040,38,male,95510,Masters,Single,1-2 Miles,West,No,36-45,70k-100k
+CUST0041,26,female,64911,PhD,Married,0-1 Miles,North,No,26-35,40k-70k
+CUST0042,56,male,89031,Masters,Married,10+ Miles,North,Yes,56-65,70k-100k
+CUST0043,35,female,118726,Masters,Married,5-10 Miles,East,No,26-35,100k+
+CUST0044,21,male,37357,Bachelors,Single,2-5 Miles,East,No,16-25,<40k
+CUST0045,42,female,62479,PhD,Single,1-2 Miles,South,Yes,36-45,40k-70k
+CUST0046,31,male,91476,PhD,Married,1-2 Miles,West,No,26-35,70k-100k
+CUST0047,26,female,74811,PhD,Single,2-5 Miles,West,Yes,26-35,70k-100k
+CUST0048,43,male,66208,PhD,Single,5-10 Miles,East,No,36-45,40k-70k
+CUST0049,19,female,50150,PhD,Single,5-10 Miles,South,No,16-25,40k-70k
+CUST0050,37,male,101180,PhD,Single,10+ Miles,West,Yes,36-45,100k+
+CUST0051,45,female,73286,High School,Single,10+ Miles,East,No,36-45,70k-100k
+CUST0052,64,female,98450,Masters,Single,0-1 Miles,North,No,56-65,70k-100k
+CUST0053,24,female,51352,PhD,Single,1-2 Miles,West,No,16-25,40k-70k
+CUST0054,61,male,85069,Masters,Single,10+ Miles,South,No,56-65,70k-100k
+CUST0055,25,female,44397,Masters,Single,5-10 Miles,South,No,16-25,40k-70k
+CUST0056,64,male,71555,High School,Single,2-5 Miles,South,Yes,56-65,70k-100k
+CUST0057,52,female,76959,PhD,Married,5-10 Miles,North,No,46-55,70k-100k
+CUST0058,31,male,30728,Bachelors,Married,1-2 Miles,West,Yes,26-35,<40k
+CUST0059,34,female,80517,High School,Single,5-10 Miles,West,Yes,26-35,70k-100k
+CUST0060,53,male,96234,Bachelors,Married,0-1 Miles,North,No,46-55,70k-100k
+CUST0061,57,male,69954,Masters,Married,1-2 Miles,West,Yes,56-65,40k-70k
+CUST0062,21,female,77280,Masters,Single,2-5 Miles,North,Yes,16-25,70k-100k
+CUST0063,19,male,109459,High School,Single,0-1 Miles,North,Yes,16-25,100k+
+CUST0064,23,male,46779,High School,Single,1-2 Miles,North,Yes,16-25,40k-70k
+CUST0065,59,female,93932,Bachelors,Married,2-5 Miles,South,No,56-65,70k-100k
+CUST0066,21,male,102936,PhD,Married,0-1 Miles,West,Yes,16-25,100k+
+CUST0067,46,male,54466,Bachelors,Single,0-1 Miles,North,No,46-55,40k-70k
+CUST0068,35,male,66939,High School,Single,1-2 Miles,West,Yes,26-35,40k-70k
+CUST0069,43,female,99896,Bachelors,Single,10+ Miles,South,No,36-45,70k-100k
+CUST0070,61,male,65270,High School,Married,0-1 Miles,North,Yes,56-65,40k-70k
+CUST0071,51,female,89163,Bachelors,Married,0-1 Miles,East,Yes,46-55,70k-100k
+CUST0072,27,male,112637,High School,Married,2-5 Miles,South,No,26-35,100k+
+CUST0073,53,male,81934,High School,Married,5-10 Miles,East,No,46-55,70k-100k
+CUST0074,31,male,94895,High School,Single,1-2 Miles,West,Yes,26-35,70k-100k
+CUST0075,48,female,62307,PhD,Single,1-2 Miles,West,Yes,46-55,40k-70k
+CUST0076,32,male,84098,Bachelors,Single,10+ Miles,South,Yes,26-35,70k-100k
+CUST0077,25,male,90921,Bachelors,Single,10+ Miles,West,Yes,16-25,70k-100k
+CUST0078,31,female,35486,Bachelors,Married,1-2 Miles,East,No,26-35,<40k
+CUST0079,40,male,38335,High School,Married,10+ Miles,North,Yes,36-45,<40k
+CUST0080,57,female,116900,Bachelors,Single,2-5 Miles,North,Yes,56-65,100k+
+CUST0081,38,female,119112,Bachelors,Single,1-2 Miles,North,Yes,36-45,100k+
+CUST0082,33,male,41130,High School,Married,10+ Miles,South,Yes,26-35,40k-70k
+CUST0083,62,female,117508,Masters,Single,1-2 Miles,West,Yes,56-65,100k+
+CUST0084,35,male,90566,High School,Married,5-10 Miles,East,Yes,26-35,70k-100k
+CUST0085,64,female,96703,Bachelors,Single,0-1 Miles,West,Yes,56-65,70k-100k
+CUST0086,41,female,57192,High School,Single,1-2 Miles,West,Yes,36-45,40k-70k
+CUST0087,43,male,31062,Masters,Single,0-1 Miles,West,No,36-45,<40k
+CUST0088,42,female,114076,High School,Single,10+ Miles,North,Yes,36-45,100k+
+CUST0089,62,female,119780,Bachelors,Single,0-1 Miles,East,No,56-65,100k+
+CUST0090,58,female,51545,Masters,Single,1-2 Miles,East,Yes,56-65,40k-70k
+CUST0091,46,female,51689,PhD,Single,5-10 Miles,West,No,46-55,40k-70k
+CUST0092,32,female,41174,Bachelors,Married,10+ Miles,North,No,26-35,40k-70k
+CUST0093,62,male,118461,Masters,Married,1-2 Miles,North,No,56-65,100k+
+CUST0094,18,female,39348,Masters,Married,10+ Miles,East,No,16-25,<40k
+CUST0095,42,male,53714,PhD,Married,2-5 Miles,North,Yes,36-45,40k-70k
+CUST0096,24,female,68102,High School,Married,0-1 Miles,North,Yes,16-25,40k-70k
+CUST0097,26,male,104460,High School,Single,2-5 Miles,North,Yes,26-35,100k+
+CUST0098,41,male,119930,Bachelors,Single,1-2 Miles,South,Yes,36-45,100k+
+CUST0099,18,female,36801,PhD,Married,5-10 Miles,West,Yes,16-25,<40k
+CUST0100,61,female,102267,High School,Single,10+ Miles,East,Yes,56-65,100k+
+CUST0101,25,female,78136,PhD,Married,0-1 Miles,East,No,16-25,70k-100k
+CUST0102,41,male,53625,High School,Married,10+ Miles,South,Yes,36-45,40k-70k
+CUST0103,28,female,112873,Masters,Single,1-2 Miles,West,No,26-35,100k+
+CUST0104,34,male,102592,High School,Single,10+ Miles,East,No,26-35,100k+
+CUST0105,25,male,107052,PhD,Single,0-1 Miles,North,No,16-25,100k+
+CUST0106,52,male,74261,Masters,Married,1-2 Miles,East,Yes,46-55,70k-100k
+CUST0107,52,female,31542,Masters,Single,10+ Miles,North,Yes,46-55,<40k
+CUST0108,50,female,51677,Masters,Married,5-10 Miles,South,Yes,46-55,40k-70k
+CUST0109,22,male,76732,PhD,Married,1-2 Miles,North,Yes,16-25,70k-100k
+CUST0110,59,male,80343,Bachelors,Married,1-2 Miles,East,No,56-65,70k-100k
+CUST0111,56,female,69081,Bachelors,Single,5-10 Miles,East,Yes,56-65,40k-70k
+CUST0112,58,male,92856,Bachelors,Single,2-5 Miles,East,No,56-65,70k-100k
+CUST0113,45,female,118858,PhD,Married,0-1 Miles,South,Yes,36-45,100k+
+CUST0114,24,male,49065,Masters,Single,2-5 Miles,South,No,16-25,40k-70k
+CUST0115,26,female,113460,Bachelors,Single,10+ Miles,West,No,26-35,100k+
+CUST0116,25,male,118092,PhD,Single,5-10 Miles,East,Yes,16-25,100k+
+CUST0117,29,female,84693,Bachelors,Married,2-5 Miles,North,Yes,26-35,70k-100k
+CUST0118,51,male,56962,High School,Married,1-2 Miles,South,Yes,46-55,40k-70k
+CUST0119,50,female,58295,Bachelors,Single,10+ Miles,East,Yes,46-55,40k-70k
+CUST0120,40,female,43807,Bachelors,Married,10+ Miles,East,Yes,36-45,40k-70k
+CUST0121,41,male,72348,Masters,Single,2-5 Miles,South,Yes,36-45,70k-100k
+CUST0122,54,male,56432,PhD,Single,2-5 Miles,West,Yes,46-55,40k-70k
+CUST0123,52,female,113285,Masters,Single,5-10 Miles,South,Yes,46-55,100k+
+CUST0124,61,male,87854,Masters,Single,0-1 Miles,South,Yes,56-65,70k-100k
+CUST0125,57,female,70262,Masters,Married,2-5 Miles,North,No,56-65,70k-100k
+CUST0126,39,male,67080,Masters,Married,2-5 Miles,North,Yes,36-45,40k-70k
+CUST0127,44,female,31324,Masters,Married,1-2 Miles,West,No,36-45,<40k
+CUST0128,52,female,65909,Bachelors,Single,10+ Miles,East,Yes,46-55,40k-70k
+CUST0129,18,female,119339,Masters,Single,0-1 Miles,South,Yes,16-25,100k+
+CUST0130,52,female,49870,Masters,Single,1-2 Miles,West,No,46-55,40k-70k
+CUST0131,54,female,64578,PhD,Married,5-10 Miles,North,Yes,46-55,40k-70k
+CUST0132,64,female,102124,High School,Single,5-10 Miles,South,Yes,56-65,100k+
+CUST0133,31,male,56790,Bachelors,Married,2-5 Miles,East,Yes,26-35,40k-70k
+CUST0134,20,male,55289,Bachelors,Married,2-5 Miles,North,Yes,16-25,40k-70k
+CUST0135,18,male,85129,Bachelors,Married,5-10 Miles,North,Yes,16-25,70k-100k
+CUST0136,22,female,45485,Masters,Married,2-5 Miles,North,Yes,16-25,40k-70k
+CUST0137,43,female,74482,Masters,Married,0-1 Miles,West,No,36-45,70k-100k
+CUST0138,31,female,116188,Masters,Married,2-5 Miles,East,Yes,26-35,100k+
+CUST0139,56,female,34748,PhD,Single,10+ Miles,South,Yes,56-65,<40k
+CUST0140,44,male,116769,High School,Single,2-5 Miles,West,Yes,36-45,100k+
+CUST0141,26,male,39435,Masters,Married,1-2 Miles,West,No,26-35,<40k
+CUST0142,32,female,33709,High School,Married,0-1 Miles,West,Yes,26-35,<40k
+CUST0143,32,male,60355,PhD,Single,1-2 Miles,North,Yes,26-35,40k-70k
+CUST0144,43,male,85771,Bachelors,Married,1-2 Miles,East,Yes,36-45,70k-100k
+CUST0145,59,female,87799,Masters,Married,10+ Miles,West,No,56-65,70k-100k
+CUST0146,30,male,43116,High School,Single,0-1 Miles,South,Yes,26-35,40k-70k
+CUST0147,49,female,55470,High School,Married,0-1 Miles,East,Yes,46-55,40k-70k
+CUST0148,56,male,72344,Masters,Married,0-1 Miles,South,Yes,56-65,70k-100k
+CUST0149,49,female,72918,Bachelors,Married,0-1 Miles,East,No,46-55,70k-100k
+CUST0150,21,female,82224,Bachelors,Single,0-1 Miles,South,Yes,16-25,70k-100k
+CUST0151,47,female,69298,Bachelors,Single,10+ Miles,North,Yes,46-55,40k-70k
+CUST0152,54,female,110219,PhD,Single,2-5 Miles,West,No,46-55,100k+
+CUST0153,40,male,91629,High School,Married,1-2 Miles,South,No,36-45,70k-100k
+CUST0154,56,female,96040,High School,Married,0-1 Miles,East,Yes,56-65,70k-100k
+CUST0155,62,female,58016,High School,Single,2-5 Miles,West,No,56-65,40k-70k
+CUST0156,32,female,53960,PhD,Married,2-5 Miles,West,Yes,26-35,40k-70k
+CUST0157,60,male,63591,High School,Married,1-2 Miles,East,Yes,56-65,40k-70k
+CUST0158,46,female,112848,PhD,Married,10+ Miles,South,Yes,46-55,100k+
+CUST0159,53,male,97641,Bachelors,Married,5-10 Miles,North,No,46-55,70k-100k
+CUST0160,30,female,66395,Masters,Married,5-10 Miles,North,Yes,26-35,40k-70k
+CUST0161,49,male,52700,High School,Single,2-5 Miles,South,Yes,46-55,40k-70k
+CUST0162,24,male,64620,High School,Married,1-2 Miles,West,Yes,16-25,40k-70k
+CUST0163,39,female,50559,Bachelors,Single,5-10 Miles,West,No,36-45,40k-70k
+CUST0164,45,male,91642,Masters,Married,2-5 Miles,West,Yes,36-45,70k-100k
+CUST0165,19,female,106539,PhD,Single,10+ Miles,West,Yes,16-25,100k+
+CUST0166,59,female,51732,Masters,Married,5-10 Miles,South,Yes,56-65,40k-70k
+CUST0167,62,female,60354,Bachelors,Single,2-5 Miles,West,Yes,56-65,40k-70k
+CUST0168,23,male,43843,Bachelors,Married,2-5 Miles,East,Yes,16-25,40k-70k
+CUST0169,45,male,101726,Masters,Single,0-1 Miles,West,No,36-45,100k+
+CUST0170,45,female,47640,PhD,Married,10+ Miles,North,Yes,36-45,40k-70k
+CUST0171,61,female,82528,PhD,Single,0-1 Miles,West,Yes,56-65,70k-100k
+CUST0172,61,male,68413,High School,Married,1-2 Miles,South,No,56-65,40k-70k
+CUST0173,37,female,82638,PhD,Single,0-1 Miles,North,Yes,36-45,70k-100k
+CUST0174,47,female,82736,Masters,Single,0-1 Miles,South,Yes,46-55,70k-100k
+CUST0175,28,female,98866,Bachelors,Married,5-10 Miles,South,No,26-35,70k-100k
+CUST0176,45,male,49087,High School,Married,2-5 Miles,North,Yes,36-45,40k-70k
+CUST0177,42,male,71430,High School,Single,10+ Miles,South,Yes,36-45,70k-100k
+CUST0178,56,male,54504,Bachelors,Married,0-1 Miles,South,Yes,56-65,40k-70k
+CUST0179,50,female,37114,PhD,Single,10+ Miles,West,Yes,46-55,<40k
+CUST0180,18,female,108859,Bachelors,Single,0-1 Miles,East,Yes,16-25,100k+
+CUST0181,44,female,40975,PhD,Single,1-2 Miles,South,Yes,36-45,40k-70k
+CUST0182,30,male,41023,Bachelors,Married,0-1 Miles,South,Yes,26-35,40k-70k
+CUST0183,58,female,51447,Masters,Single,5-10 Miles,South,Yes,56-65,40k-70k
+CUST0184,20,female,53959,PhD,Single,2-5 Miles,West,No,16-25,40k-70k
+CUST0185,56,female,96203,Masters,Married,1-2 Miles,East,No,56-65,70k-100k
+CUST0186,23,female,59703,High School,Married,0-1 Miles,North,Yes,16-25,40k-70k
+CUST0187,25,male,39337,Bachelors,Married,10+ Miles,West,Yes,16-25,<40k
+CUST0188,44,male,76427,High School,Married,1-2 Miles,West,No,36-45,70k-100k
+CUST0189,26,female,91529,High School,Single,1-2 Miles,East,Yes,26-35,70k-100k
+CUST0190,54,male,114665,High School,Single,0-1 Miles,East,Yes,46-55,100k+
+CUST0191,50,male,61921,High School,Single,1-2 Miles,West,No,46-55,40k-70k
+CUST0192,59,female,63307,Bachelors,Single,10+ Miles,North,Yes,56-65,40k-70k
+CUST0193,61,female,57355,High School,Married,1-2 Miles,West,No,56-65,40k-70k
+CUST0194,41,male,34835,Bachelors,Single,10+ Miles,East,No,36-45,<40k
+CUST0195,32,female,50159,Bachelors,Single,0-1 Miles,North,Yes,26-35,40k-70k
+CUST0196,49,male,77605,Masters,Married,2-5 Miles,East,Yes,46-55,70k-100k
+CUST0197,49,female,68088,PhD,Single,1-2 Miles,North,Yes,46-55,40k-70k
+CUST0198,41,male,108752,PhD,Single,2-5 Miles,South,No,36-45,100k+
+CUST0199,58,female,85284,Bachelors,Single,10+ Miles,East,No,56-65,70k-100k
+CUST0200,29,male,87043,Masters,Single,1-2 Miles,East,No,26-35,70k-100k
+CUST0201,56,male,65547,Bachelors,Single,5-10 Miles,West,Yes,56-65,40k-70k
+CUST0202,19,male,112844,Bachelors,Single,2-5 Miles,East,No,16-25,100k+
+CUST0203,20,female,57532,Bachelors,Married,1-2 Miles,East,No,16-25,40k-70k
+CUST0204,54,male,64349,Masters,Married,2-5 Miles,South,No,46-55,40k-70k
+CUST0205,34,male,75445,PhD,Single,1-2 Miles,East,No,26-35,70k-100k
+CUST0206,19,female,35713,Masters,Single,0-1 Miles,South,No,16-25,<40k
+CUST0207,19,female,86178,High School,Married,2-5 Miles,South,No,16-25,70k-100k
+CUST0208,45,male,79407,Masters,Single,5-10 Miles,South,Yes,36-45,70k-100k
+CUST0209,40,male,100340,Masters,Single,5-10 Miles,South,Yes,36-45,100k+
+CUST0210,54,female,80990,Masters,Single,10+ Miles,North,Yes,46-55,70k-100k
+CUST0211,49,female,105672,Masters,Married,1-2 Miles,West,No,46-55,100k+
+CUST0212,50,female,95545,PhD,Single,2-5 Miles,North,Yes,46-55,70k-100k
+CUST0213,18,female,114791,High School,Married,10+ Miles,East,No,16-25,100k+
+CUST0214,36,female,88141,PhD,Single,2-5 Miles,North,No,36-45,70k-100k
+CUST0215,19,male,53793,PhD,Married,1-2 Miles,North,No,16-25,40k-70k
+CUST0216,61,female,86570,Masters,Married,5-10 Miles,East,Yes,56-65,70k-100k
+CUST0217,43,male,67892,Bachelors,Single,0-1 Miles,East,Yes,36-45,40k-70k
+CUST0218,49,male,31015,Bachelors,Married,5-10 Miles,East,Yes,46-55,<40k
+CUST0219,23,male,91813,PhD,Single,10+ Miles,North,No,16-25,70k-100k
+CUST0220,49,female,57712,PhD,Married,0-1 Miles,North,No,46-55,40k-70k
+CUST0221,21,male,38415,Masters,Single,10+ Miles,East,No,16-25,<40k
+CUST0222,28,male,92292,PhD,Single,1-2 Miles,West,Yes,26-35,70k-100k
+CUST0223,34,female,53833,Masters,Married,0-1 Miles,West,No,26-35,40k-70k
+CUST0224,55,male,34158,Bachelors,Single,10+ Miles,South,No,46-55,<40k
+CUST0225,41,male,92680,Bachelors,Single,1-2 Miles,East,Yes,36-45,70k-100k
+CUST0226,22,female,50309,High School,Married,5-10 Miles,South,No,16-25,40k-70k
+CUST0227,51,male,36970,Bachelors,Single,1-2 Miles,West,Yes,46-55,<40k
+CUST0228,23,male,102474,PhD,Single,2-5 Miles,South,Yes,16-25,100k+
+CUST0229,39,male,116704,Bachelors,Married,1-2 Miles,East,No,36-45,100k+
+CUST0230,28,female,76540,Masters,Married,1-2 Miles,East,Yes,26-35,70k-100k
+CUST0231,33,female,50384,Bachelors,Single,2-5 Miles,East,No,26-35,40k-70k
+CUST0232,50,female,48017,High School,Single,10+ Miles,North,No,46-55,40k-70k
+CUST0233,26,male,105880,Bachelors,Married,10+ Miles,South,Yes,26-35,100k+
+CUST0234,23,male,38702,Masters,Married,1-2 Miles,West,Yes,16-25,<40k
+CUST0235,33,female,30384,Masters,Single,2-5 Miles,West,Yes,26-35,<40k
+CUST0236,46,male,30404,PhD,Married,2-5 Miles,West,Yes,46-55,<40k
+CUST0237,20,male,70943,Bachelors,Single,5-10 Miles,North,Yes,16-25,70k-100k
+CUST0238,37,female,77926,Masters,Single,10+ Miles,North,Yes,36-45,70k-100k
+CUST0239,53,female,59189,High School,Single,0-1 Miles,East,Yes,46-55,40k-70k
+CUST0240,36,male,42763,PhD,Single,10+ Miles,West,Yes,36-45,40k-70k
+CUST0241,43,male,48384,High School,Single,10+ Miles,North,Yes,36-45,40k-70k
+CUST0242,20,male,90100,Bachelors,Married,5-10 Miles,East,No,16-25,70k-100k
+CUST0243,36,female,39860,Bachelors,Married,0-1 Miles,West,No,36-45,<40k
+CUST0244,37,female,110642,Bachelors,Married,5-10 Miles,South,Yes,36-45,100k+
+CUST0245,49,female,80612,PhD,Married,0-1 Miles,East,Yes,46-55,70k-100k
+CUST0246,24,female,53574,Masters,Single,1-2 Miles,North,No,16-25,40k-70k
+CUST0247,58,male,53524,PhD,Single,0-1 Miles,North,No,56-65,40k-70k
+CUST0248,50,female,99172,High School,Single,5-10 Miles,East,No,46-55,70k-100k
+CUST0249,57,female,40916,PhD,Single,10+ Miles,East,No,56-65,40k-70k
+CUST0250,56,female,34809,High School,Married,0-1 Miles,North,Yes,56-65,<40k
+CUST0251,35,female,62201,PhD,Single,0-1 Miles,South,Yes,26-35,40k-70k
+CUST0252,57,female,83330,Masters,Single,2-5 Miles,West,Yes,56-65,70k-100k
+CUST0253,18,male,43456,High School,Married,10+ Miles,South,Yes,16-25,40k-70k
+CUST0254,28,male,86397,Bachelors,Married,1-2 Miles,East,Yes,26-35,70k-100k
+CUST0255,45,female,68765,Bachelors,Married,5-10 Miles,South,Yes,36-45,40k-70k
+CUST0256,42,male,64816,PhD,Married,1-2 Miles,North,Yes,36-45,40k-70k
+CUST0257,40,female,75106,Bachelors,Single,10+ Miles,East,No,36-45,70k-100k
+CUST0258,48,female,83932,High School,Single,0-1 Miles,West,No,46-55,70k-100k
+CUST0259,47,male,47100,Bachelors,Married,0-1 Miles,North,Yes,46-55,40k-70k
+CUST0260,59,male,87091,Masters,Single,10+ Miles,North,No,56-65,70k-100k
+CUST0261,52,female,51949,Masters,Single,0-1 Miles,West,Yes,46-55,40k-70k
+CUST0262,24,female,100080,PhD,Single,0-1 Miles,West,No,16-25,100k+
+CUST0263,33,female,67744,High School,Married,0-1 Miles,South,Yes,26-35,40k-70k
+CUST0264,43,male,75543,Masters,Single,5-10 Miles,East,No,36-45,70k-100k
+CUST0265,19,female,66187,Masters,Married,5-10 Miles,West,No,16-25,40k-70k
+CUST0266,18,female,37239,High School,Single,2-5 Miles,West,Yes,16-25,<40k
+CUST0267,29,female,44489,Bachelors,Single,1-2 Miles,East,Yes,26-35,40k-70k
+CUST0268,22,male,88017,Bachelors,Single,10+ Miles,West,Yes,16-25,70k-100k
+CUST0269,54,female,91877,PhD,Married,10+ Miles,West,Yes,46-55,70k-100k
+CUST0270,49,female,73125,Bachelors,Single,10+ Miles,South,Yes,46-55,70k-100k
+CUST0271,26,male,79922,High School,Married,2-5 Miles,North,No,26-35,70k-100k
+CUST0272,58,female,62049,Masters,Married,5-10 Miles,North,Yes,56-65,40k-70k
+CUST0273,52,female,67131,Bachelors,Married,2-5 Miles,North,No,46-55,40k-70k
+CUST0274,36,male,72944,PhD,Single,10+ Miles,North,No,36-45,70k-100k
+CUST0275,33,female,103963,Bachelors,Single,1-2 Miles,West,Yes,26-35,100k+
+CUST0276,20,male,54285,High School,Single,0-1 Miles,East,Yes,16-25,40k-70k
+CUST0277,37,male,67626,PhD,Single,5-10 Miles,East,Yes,36-45,40k-70k
+CUST0278,41,female,72808,Bachelors,Married,5-10 Miles,South,No,36-45,70k-100k
+CUST0279,50,female,118464,PhD,Married,2-5 Miles,South,Yes,46-55,100k+
+CUST0280,41,female,83871,High School,Married,5-10 Miles,West,No,36-45,70k-100k
+CUST0281,28,female,49198,Masters,Single,10+ Miles,East,No,26-35,40k-70k
+CUST0282,25,male,49758,High School,Married,10+ Miles,East,Yes,16-25,40k-70k
+CUST0283,53,female,45254,High School,Single,2-5 Miles,North,Yes,46-55,40k-70k
+CUST0284,55,male,74238,High School,Married,10+ Miles,West,No,46-55,70k-100k
+CUST0285,57,female,31252,High School,Single,1-2 Miles,West,No,56-65,<40k
+CUST0286,37,female,69764,Masters,Single,2-5 Miles,North,Yes,36-45,40k-70k
+CUST0287,52,female,107709,Masters,Married,1-2 Miles,West,Yes,46-55,100k+
+CUST0288,42,male,67441,PhD,Married,0-1 Miles,West,No,36-45,40k-70k
+CUST0289,52,female,83682,Bachelors,Married,1-2 Miles,South,Yes,46-55,70k-100k
+CUST0290,42,female,89494,Masters,Married,0-1 Miles,East,No,36-45,70k-100k
+CUST0291,46,female,111317,Masters,Single,0-1 Miles,West,Yes,46-55,100k+
+CUST0292,35,female,95215,Bachelors,Married,1-2 Miles,South,Yes,26-35,70k-100k
+CUST0293,63,male,108587,Masters,Married,2-5 Miles,East,No,56-65,100k+
+CUST0294,35,female,36949,High School,Married,10+ Miles,North,Yes,26-35,<40k
+CUST0295,19,male,85393,High School,Single,10+ Miles,South,Yes,16-25,70k-100k
+CUST0296,52,male,103553,Bachelors,Single,0-1 Miles,South,Yes,46-55,100k+
+CUST0297,33,male,36941,PhD,Married,0-1 Miles,East,Yes,26-35,<40k
+CUST0298,58,male,55934,PhD,Single,2-5 Miles,North,No,56-65,40k-70k
+CUST0299,53,male,53386,Bachelors,Married,5-10 Miles,South,Yes,46-55,40k-70k
+CUST0300,50,male,91886,Bachelors,Single,1-2 Miles,West,Yes,46-55,70k-100k
