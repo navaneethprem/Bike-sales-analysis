@@ -38,7 +38,7 @@ The insights can help businesses optimize marketing campaigns and customer targe
 ## 📊 Key Visualizations
 
 ### 🚲 Bike Purchase % by Age Group
-![Bike Purchase by Age](images/purchase_by_age.png)
+![Bike Purchase by Age](bike_purchase_by_age.png)
 
 ### 💰 Bike Purchase % by Income Group
 ![Bike Purchase by Income](bike_purchase_by_income.png)
